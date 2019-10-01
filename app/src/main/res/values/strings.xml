@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple MVVM</string>
+
+    <string name="write_phone">أدخل رقم الهاتف</string>
+    <string name="write_pass">أدخل كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+</resources>
